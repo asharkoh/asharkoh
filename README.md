@@ -2,7 +2,7 @@
 
 Frankston-based IT and cybersecurity student, currently finishing Cert III in IT at Chisholm Institute and starting Cert IV in Cyber Security in July 2026.
 
-I've been working through the Google Cybersecurity Professional Certificate alongside study, and I've got my first home lab project running — a Pi-hole DNS ad blocker on a Raspberry Pi, which was my introduction to Linux and hands-on networking.
+I've been working through the Google Cybersecurity Professional Certificate alongside study, and I've got my first home lab project running a Pi-hole DNS ad blocker on a Raspberry Pi, which was my introduction to Linux and hands-on networking.
 
 Working toward CompTIA Security+ and building this GitHub out as I go.
 
