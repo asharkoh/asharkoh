@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Asher
 
-<!--
-**asharkoh/asharkoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frankston-based IT and cybersecurity student, currently finishing Cert III in IT at Chisholm Institute and starting Cert IV in Cyber Security in July 2026.
 
-Here are some ideas to get you started:
+I've been working through the Google Cybersecurity Professional Certificate alongside study, and I've got my first home lab project running — a Pi-hole DNS ad blocker on a Raspberry Pi, which was my introduction to Linux and hands-on networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working toward CompTIA Security+ and building this GitHub out as I go.
+
+---
+
+## Currently working on
+
+- Cert IV in Cyber Security (starting Jul 2026)
+- Google Cybersecurity Professional Certificate (in progress)
+- Home lab expansion
+- CompTIA Security+ prep
+
+## Skills I'm building
+
+`Linux` `Networking` `DNS` `TCP/IP` `HTML/CSS` `Windows` `Security fundamentals`
+
+---
+
+## Projects
+
+| Project | What it is |
+|---|---|
+| [pihole-home-lab](https://github.com/asharkoh/pihole-home-lab) | Raspberry Pi configured as a network-wide DNS ad blocker — Linux setup, network config, DNS |
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/asher-thomas-98a156407](https://www.linkedin.com/in/asher-thomas-98a156407)
+- Email: Asherthomas.work@gmail.com
